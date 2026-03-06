@@ -1,4 +1,4 @@
-git clone https://github.com/ktalovmorx/salema_easy_odoo_test.git
+git clone https://github.com/ktalovmorx/salema_test.git
 git init
 git add .
 git commit -m "SUBIDA INICIAL"
